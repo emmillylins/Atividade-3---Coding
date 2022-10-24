@@ -1,8 +1,16 @@
-public class artefato {
-    private string nomeArtefato;
+public class arma : artefato {
+    private string nomeArma;
+    private int poderArma;
 
-    public artefato(string nomeArtefato){
-        this.nomeArtefato = nomeArtefato;
+    public String NomeArma { 
+        get => nomeArma; 
+        set => nomeArma = value;   
+    }
+    public int PoderArma { 
+        get => poderArma; 
+        set => poderArma = value;
     }
 }
 
+public class guerreiro : personagem {
+}
