@@ -1,0 +1,15 @@
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\bin\Debug\net6.0\atividade 3.exe
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\bin\Debug\net6.0\atividade 3.deps.json
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\bin\Debug\net6.0\atividade 3.runtimeconfig.json
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\bin\Debug\net6.0\atividade 3.dll
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\bin\Debug\net6.0\atividade 3.pdb
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\obj\Debug\net6.0\atividade 3.csproj.AssemblyReference.cache
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\obj\Debug\net6.0\atividade 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\obj\Debug\net6.0\atividade 3.AssemblyInfoInputs.cache
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\obj\Debug\net6.0\atividade 3.AssemblyInfo.cs
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\obj\Debug\net6.0\atividade 3.csproj.CoreCompileInputs.cache
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\obj\Debug\net6.0\atividade 3.dll
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\obj\Debug\net6.0\refint\atividade 3.dll
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\obj\Debug\net6.0\atividade 3.pdb
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\obj\Debug\net6.0\atividade 3.genruntimeconfig.cache
+C:\Users\khaleesi\OneDrive\Rascunhos\VS Code\Coding 2 - C# e Java\atividade 3\obj\Debug\net6.0\ref\atividade 3.dll
