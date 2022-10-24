@@ -1,16 +1,8 @@
-public class arma : artefato {
-    private string nomeArma;
-    private int poderArma;
+public class artefato {
+    private string nomeArtefato;
 
-    public String NomeArma { 
-        get => nomeArma; 
-        set => nomeArma = value;   
+    public string NomeArtefato { 
+        get => nomeArtefato; 
+        set => nomeArtefato = value;   
     }
-    public int PoderArma { 
-        get => poderArma; 
-        set => poderArma = value;
-    }
-}
-
-public class guerreiro : personagem {
 }
