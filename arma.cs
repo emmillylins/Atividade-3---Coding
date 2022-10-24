@@ -1,5 +1,3 @@
-
-//heraças de artefato
 public class arma : artefato {
     private string nomeArma;
     private int poderArma;
@@ -12,4 +10,7 @@ public class arma : artefato {
         get => poderArma; 
         set => poderArma = value;
     }
+}
+
+public class guerreiro : personagem {
 }
