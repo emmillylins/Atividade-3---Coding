@@ -1,8 +1,29 @@
-public class artefato {
-    private string nomeArtefato;
+public class artefato{
+    private string nome;
+    private int poder;
 
-    public string NomeArtefato { 
-        get => nomeArtefato; 
-        set => nomeArtefato = value;   
+    //construtor
+    public artefato(string nome, int poder) { 
+        this.nome = nome;        
+        this.poder = poder;
+    }
+
+    //encapsulamento?
+    public string Nome { 
+        get => nome; 
+        set => nome = value;
+    }
+    public int Poder {
+        get => poder;
+        set => poder = value;
+    }  
+
+    //métodos
+    public string mostraNome(){
+        return this.nome;
+    }
+
+    public int mostraPoder(){
+        return this.poder;
     }
 }
